@@ -95,3 +95,11 @@ body {
           transform: translateX(0);
      }
 }
+
+/* Responsive */
+
+@media (max-width: 320px) {
+     .container {
+          width: 270px;
+     }
+}
